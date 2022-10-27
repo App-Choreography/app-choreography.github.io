@@ -12,7 +12,7 @@ body{
 
 .header{
     padding: 30px;
-    background-image: linear-gradient(rgb(0, 110, 255),rgb(111, 0, 255));
+    background-image: linear-gradient(rgb(0, 110, 255),rgb(138, 124, 156));
     background-repeat: no-repeat;
     background-size: cover;
     text-align: center;
@@ -75,12 +75,16 @@ body{
     padding-left: 20px;
 }
 
-img{
+.rightcolumn img{
     width: 100%;
     padding: 20px;
     border-radius: 50px;
 }
 
+ img{
+    padding: 20px;
+    border-radius: 50px;
+}
 .card{
     background-color: white;
     padding: 20px;
